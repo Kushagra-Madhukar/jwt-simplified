@@ -19,4 +19,4 @@ Run => cd customJWT
 To learn and experience public key cryptography, view the publicKeyCryptography folder and learn how to encrypt and decrypt a message using public or primary keys.
 
 Run => cd publicKeyCryptography
-       node verifyIdentity.js
+    => node verifyIdentity.js
